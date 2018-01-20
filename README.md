@@ -8,3 +8,6 @@ The original work is licenced under [CC BY-SA 4.0](https://creativecommons.org/l
 - No modification: "Citizen Science Trophy" by MN @ [Technarium](http://blog.technariumas.lt/), licenced under CC BY-SA 4.0.
 - Modified slightly: "Citizen Science Trophy" by MN @ [Technarium](http://blog.technariumas.lt/), used under CC BY-SA 4.0 / [Modification].
 - Derivative work: This work, "[Title]", is a derivative of "Citizen Science Trophy" by MN @ [Technarium](http://blog.technariumas.lt/), used under CC BY-SA 4.0. "[Title]" is licensed under CC BY-SA by [Your name here].
+
+
+![Citizen Science Trophy](https://github.com/hcinst/CitizenScienceTrophy/blob/master/Citizen%20Science%20Trophy%20v1_Stall%20Catchers.bmp)
