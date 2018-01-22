@@ -12,6 +12,7 @@ The original work is licenced under [CC BY-SA 4.0](https://creativecommons.org/l
 ![Citizen Science Trophy](https://github.com/hcinst/CitizenScienceTrophy/blob/master/Citizen%20Science%20Trophy%20v1_Stall%20Catchers.bmp)
 ![Lake Hazel Middle School trophy plate](https://github.com/hcinst/CitizenScienceTrophy/blob/master/Citizen%20Science%20Trophy%20v1_Stall%20Catchers-Lake%20Hazel.jpeg?raw=true)
 
-<img src="https://github.com/hcinst/CitizenScienceTrophy/blob/master/IMG_0128.jpg?raw=true" width=40%>
+**First citizen science trophy ever produced "in the flesh:**
+<p align=center><img src="https://github.com/hcinst/CitizenScienceTrophy/blob/master/IMG_0128.jpg?raw=true" width=40%> <img src="https://github.com/hcinst/CitizenScienceTrophy/blob/master/IMG_0102.jpg?raw=true" width=40%></p>
 
 **Link:** [Photo gallery of the original "Citizen Science Trophy"](https://drive.google.com/open?id=1ovMriFssaXFqGL19lso_V4G4aUKkcn1I).
